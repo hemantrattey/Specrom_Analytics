@@ -13,3 +13,7 @@ The aim is to perform exploratory data analysis on the dataset provided. Geocodi
 	3. plotly
 	4. seaborn
 	5. matplotlib
+
+***Please note :*** The Geopy and Nominatim has a RateLimit. So as to not exceed this again and again, I saved the dataframe after extracting latitude and longitude values to a csv file called ```cleaned.csv```. 
+
+Also, Github doesnot render the Plotly maps hence I have added the PNG as a seperate file. 
