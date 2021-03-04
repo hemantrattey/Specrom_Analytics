@@ -8,8 +8,8 @@ The aim is to perform exploratory data analysis on the dataset provided. Geocodi
 
 **Libraries :** Make sure to install the following libraries using ```pip install <library name>```
 
-1. pandas
-2. numpy
-3. plotly
-4. seaborn
-5. matplotlib
+	1. pandas
+	2. numpy
+	3. plotly
+	4. seaborn
+	5. matplotlib
